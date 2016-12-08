@@ -1,0 +1,34 @@
+body,form,ul,li,p,h1,h2,h3,h4,h5,h6,input,textarea{padding:0;margin:0}
+
+input,select,textarea{font-size:12px;font-family:"宋体","Arial Narrow";line-height:16px}
+img{border:0}
+ul,li{LIST-STYLE-TYPE:none}
+a{COLOR:#4c4c4c;TEXT-DECORATION:none}
+a:hover{COLOR:#e30000;TEXT-DECORATION:underline}
+.right{float:right}
+.left{float:left}
+.box{width:100%;height:auto!important;min-height:48px;height:48px;background:#fff;margin:auto}
+
+.banner1{width:100%;margin:auto;}
+.w_title{font-size:20px;font-family:"微软雅黑";color:#262626;margin-top:20px;}
+.classify{margin-top:20px;margin-bottom:20px;overflow:hidden;}
+.classify_con{width:20%;float:left;text-align:center;border:1px solid #dedede;padding:0 6%;}
+.classify_t{font-size:14px;font-weight:bold;color:#000;font-family:"微软雅黑";margin-top:10px;}
+.line{width:100%;height:10px;background:#999;overflow:hidden;margin-top:20px;margin-bottom:20px;}
+.details_con{width:33.33%;float:left;margin-bottom:20px;padding:5%;}
+
+.header_middile{margin:0 auto;width:200px;height:40px;}
+.header_middile img{display:block;margin:0 auto;}
+.wrap {
+    width: 95%;
+	margin:0 auto;
+    overflow: hidden;
+}
+
+.swipe{overflow:hidden;visibility:hidden;position:relative;}
+.swipe-wrap{overflow:hidden;position:relative;}
+.swipe-wrap>div{float:left;width:100%;position:relative;}
+.mySwipeceng{position:absolute;width:100%;bottom:0;height:26px;line-height:26px;font-size:14px;text-align:left;text-indent:10px;background-color:rgba(0,0,0,.4);color:#fff;}
+.mySwipetab{height:26px;width:50px;}
+.mySwipetabdian{width:5px;height:5px;background-color:#aaa;margin-right:5px;float:left;margin-top:10px;}
+.mySwipetabdiancurr{width:5px;height:5px;background-color:#fff;margin-right:5px;float:left;margin-top:10px;}
